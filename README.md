@@ -6,6 +6,8 @@
 - 📫 Como entrar em contato comigo: pdonatodasilva@gmail.com.
 - ⚡ Curiosidade: sou Técnico em Informática formado pela ETE 25 de Julho.
 
+--------------------------------------------------------------------------------
+
 - 🔭 I'm currently working on HTML, CSS, JavaScript, SASS, PHP and Smarty.
 - 🌱 I'm currently learning C, jQuery and Python.
 - 👯 I'm looking to collaborate in the technology world in the future.
