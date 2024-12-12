@@ -1,7 +1,6 @@
   <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
     <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-Donato&show_icons=true&theme=gruvbox&count_private=true" alt="ricardo-donato's GitHub stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo-Donato&theme=xcode&hide_border=true" />
     </div>
     <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
