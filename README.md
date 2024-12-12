@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou o Pedro Donato 👋
 
-<!--
-**Ricardo-Donato/Ricardo-Donato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando em HTML, CSS, JavaScript, SASS, PHP e Smarty.
+- 🌱 Atualmente estou aprendendo C, jQuery e Python.
+- 👯 Estou procurando colaborar para o mundo da tecnologia futuramente.
+- 📫 Como entrar em contato comigo: pdonatodasilva@gmail.com.
+- ⚡ Curiosidade: sou Técnico em Informática formado pela ETE 25 de Julho.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on HTML, CSS, JavaScript, SASS, PHP and Smarty.
+- 🌱 I'm currently learning C, jQuery and Python.
+- 👯 I'm looking to collaborate in the technology world in the future.
+- 📫 How to contact me: pdonatodasilva@gmail.com.
+- ⚡ Fun fact: I'm a Computer Technician graduated from ETE 25 de Julho.
