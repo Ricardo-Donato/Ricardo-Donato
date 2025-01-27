@@ -16,5 +16,3 @@
     <p>⚡ Curiosidade: sou Técnico em Informática formado pela ETE 25 de Julho.</p>
   </div>
 </div>
-
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo-Donato&theme=xcode&hide_border=true" />
