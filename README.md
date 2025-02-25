@@ -23,3 +23,7 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Donato&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ricardo-Donato's GitHub Stats" />
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricardo-Donato&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="Ricardo-Donato's Most Used Languages" />
 </div>
+
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo-Donato&theme=xcode&hide_border=true" alt="Activity graph">
+</a>
