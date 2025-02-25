@@ -19,6 +19,7 @@
 
 <br><br><br>
 
-<div align="center">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Donato&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ricardo-Donato's GitHub Stats" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Donato&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ricardo-Donato's GitHub Stats" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricardo-Donato&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="Ricardo-Donato's Most Used Languages" />
 </div>
