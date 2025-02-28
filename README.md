@@ -22,7 +22,3 @@
 <div align="center">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Donato&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ricardo-Donato's GitHub Stats" />
 </div>
-
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo-Donato&theme=xcode&hide_border=true" alt="Activity graph">
-</a>
