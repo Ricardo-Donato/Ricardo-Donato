@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/Ricardo-Donato" style="text-decoration: none;">
-   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Donato&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ricardo-Donato's GitHub Stats"/>
-    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Donato&layout=compact&theme=transparent"/>
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Donato&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ricardo-Donato's GitHub Stats"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Donato&layout=compact&theme=transparent"/>
   </a>
 </div>
