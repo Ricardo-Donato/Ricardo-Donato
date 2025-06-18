@@ -25,7 +25,3 @@
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Donato&layout=compact&theme=transparent"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardo-Donato&theme=black-ice&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FF00&currStreakLabel=00FFFF&border=0D1117" alt="GitHub Streak" />
-</div>
