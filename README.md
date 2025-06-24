@@ -6,15 +6,6 @@
     <p>📫 How to contact me: pdonatodasilva@gmail.com.</p>
     <p>⚡ Fun fact: I'm a Computer Technician graduated from ETE 25 de Julho.</p>
 </div>
-  
-  <div style="text-align: center;">
-    <h2>👋 Sobre mim</h2>
-    <p>🔭 Atualmente estou trabalhando em HTML, CSS, JavaScript, SASS, Scratch, PHP, Bootstrap(CSS e Table), jQuery e Smarty.</p>
-    <p>🌱 Atualmente estou aprendendo Git e MATLAB.</p>
-    <p>📑 Estou realizando o curso de Bacharelado em Ciência da Computação na UNIJUÍ.</p>
-    <p>📫 Como entrar em contato comigo: pdonatodasilva@gmail.com.</p>
-    <p>⚡ Curiosidade: sou Técnico em Informática formado pela ETE 25 de Julho.</p>
-  </div>
 
 <h2>🛠 Skills</h2>
 <br>
