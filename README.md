@@ -8,7 +8,6 @@
 </div>
 
 <h2>🛠 Skills</h2>
-<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,php,jquery,bootstrap,postman,powershell,matlab,git,github,gitlab,gmail,npm&theme=dark)](https://skillicons.dev)
 
