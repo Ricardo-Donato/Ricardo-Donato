@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,php,jquery,bootstrap,postman,powershell,matlab,git,github,gitlab,gmail,npm&theme=dark)](https://skillicons.dev)
 
-<br><br><br>
+<br>
 
 <div align="center">
   <a href="https://github.com/Ricardo-Donato" style="text-decoration: none;">
