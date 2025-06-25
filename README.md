@@ -19,5 +19,3 @@
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Donato&layout=compact&theme=transparent"/>
   </a>
 </div>
-
-
