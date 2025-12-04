@@ -10,13 +10,3 @@
 <h2>🛠 Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,php,jquery,bootstrap,postman,powershell,matlab,git,github,gitlab,gmail,npm&theme=dark)](https://skillicons.dev)
-<!--
-<br>
-
-<div align="center">
-  <a href="https://github.com/Ricardo-Donato" style="text-decoration: none;">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Donato&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ricardo-Donato's GitHub Stats"/>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Donato&layout=compact&theme=transparent"/>
-  </a>
-</div>
--->
