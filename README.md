@@ -1,9 +1,9 @@
 <div style="text-align: center;">
     <h2>👋 Sobre</h2>
     <p>🔭 Atualmente estou trabalhando com HTML, CSS, JavaScript, SASS, PHP, Bootstrap (CSS and Table), jQuery, Git e Smarty.</p>
-    <p>📑 I am taking the Bachelor's degree in Computer Science at UNIJUÍ.</p>
-    <p>📫 How to contact me: pdonatodasilva@gmail.com.</p>
-    <p>⚡ Fun fact: I'm a Computer Technician graduated from ETE 25 de Julho.</p>
+    <p>📑 Estou cursando o bacharelado de Ciência da Computação na UNIJUÍ.</p>
+    <p>📫 Como me contatar: pdonatodasilva@gmail.com.</p>
+    <p>⚡ Fato interessante: Eu sou um Técnico em Informática formado pela ETE 25 de Julho.</p>
 </div>
 
 <div style="text-align: center;">
