@@ -3,7 +3,7 @@
     <p>🔭 Atualmente estou trabalhando com HTML, CSS, JavaScript, SASS, PHP, Bootstrap (CSS and Table), jQuery, Git e Smarty.</p>
     <p>📑 Estou cursando o bacharelado em Ciência da Computação na UNIJUÍ.</p>
     <p>📫 Como me contatar: pdonatodasilva@gmail.com.</p>
-    <p>⚡ Fato interessante: Eu sou técnico em informática formado pela ETE 25 de Julho.</p>
+    <p>⚡ Fato interessante: eu sou técnico em informática formado pela ETE 25 de Julho.</p>
 </div>
 
 <div style="text-align: center;">
